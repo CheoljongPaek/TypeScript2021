@@ -13,5 +13,5 @@ project.1_todo: apply the typings including void, simple interface with eslintrc
 
 .3: all about interface
 
-
+.4: union type(|) , intersection Type(&)
 
