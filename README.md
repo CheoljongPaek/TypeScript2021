@@ -2,3 +2,16 @@
 
 본 저장소는 https://javascript.tistory.com/category/TypeScript 포스팅 업로드에 맞춰
 커밋되고 있습니다.
+
+chapter
+
+.1: compile .ts to .js through command 'tsc'
+
+.2: the basic typings
+
+project.1_todo: apply the typings including void with eslintrc
+
+.3: 
+
+
+
