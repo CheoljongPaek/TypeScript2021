@@ -9,9 +9,9 @@ chapter
 
 .2: the basic typings
 
-project.1_todo: apply the typings including void with eslintrc
+project.1_todo: apply the typings including void, simple interface with eslintrc
 
-.3: 
+.3: all about interface
 
 
 
