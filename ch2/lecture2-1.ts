@@ -17,3 +17,15 @@ const obj2: {name: string, age: number} = {
 };
 // TS Declare of Boolean
 const choice: boolean = true;
+
+//
+interface User {
+  name: string;
+  readonly height: number;
+  favoriteLanguage?: string;
+}
+
+const user1: User = {name: 'li', height: 10}
+
+user1.name = 'hmm';
+// user1.height = 'hmm';

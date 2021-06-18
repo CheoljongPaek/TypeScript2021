@@ -64,7 +64,7 @@ interface Dropdown {
   selected: boolean;
 }
 
-const obj: Dropdown = {value:'abc', selected: false}
+// const obj: Dropdown = {value:'abc', selected: false}
 
 interface Dropdown2<T> {
   value: T;
