@@ -20,3 +20,9 @@ project.1_todo: apply the typings including void, simple interface with eslintrc
 .6: generics
 
 project.2_address-book: chapter 1-6 practice example.
+
+.7: type inference, Best Common Type, Type Assertion, Type Guard
+
+.8: type compatibility
+
+module
